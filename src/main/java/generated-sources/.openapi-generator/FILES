@@ -1,0 +1,8 @@
+README.md
+pom.xml
+src/main/java/org/openapitools/api/ApiUtil.java
+src/main/java/org/openapitools/api/EmployeesApi.java
+src/main/java/org/openapitools/model/Department.java
+src/main/java/org/openapitools/model/Employee.java
+src/main/java/org/openapitools/model/ErrorModel.java
+src/main/java/org/openapitools/model/ErrorResponse.java
